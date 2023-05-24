@@ -1,0 +1,1 @@
+This is a very simple console calculator project for learning C# 
